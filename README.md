@@ -14,6 +14,8 @@ In this lab you will be researching, either individually or in groups, answer to
     * Because not all data points in a table are ever used, documents bring down (in theory) storage costs and volume. 
     * Documents are easier and faster to query than tables, and the specificity of querying allows for cheaper costs application maintainers. 
     * Some developers just prefer the document/Mongo modality and find it preferable for managing data, and like using the Mongo tools. 
-3. In this class we will be using Mongo specificially as our no-SQL db. Look into Mongo and answer this question: what is the priamry difference between how Mongo is maintained vrs SQL?
-4. Mongo DBs are organized into documents. Describe an example of a table in SQL that contains users, and then describe the equivalent DB setup in Mongo. 
-5. What is an example situation where a Mongo database makes sense versus a non-relational db?
+3. In this class we will be using the document style of non-relational databases. What are the charecteristics of a document based db? 
+4. In this class we will be using Mongo specificially as our no-SQL db. Look into Mongo and answer this question: what is the priamry difference between how Mongo is maintained vrs SQL?
+5. Mongo DBs are organized into documents. Describe an example of a table in SQL that contains users, and then describe the equivalent DB setup in Mongo. 
+6. What is an example situation where a Mongo database makes sense versus a non-relational db?
+
