@@ -7,6 +7,10 @@ Up until now in the cohort we have stored data only in what are known as relatio
 
 In this lab you will be researching, either individually or in groups, answer to the following questions about noSQL databases. The intention is for you to spend some time learning about the fundamental differences between the type of databases we have seen before and the new type we will be learning about today. Even more importantly, you will learn about why two types of databases are used, and what situations fit each type of db. 
 
+## Setup
+
+Fork and clone this repository and answer questions as you research directly in the README. You do not have to submit this lab, but you will want to have it on hand for reference in the future. 
+
 # Questions:
 1. What does the term noSQL refer to, and what other term is often used synonymously with noSQL?
     * Another term often used to describe noSQL databases is non-relational, to explain how the database is organized into documents/pages, versus tables. 
