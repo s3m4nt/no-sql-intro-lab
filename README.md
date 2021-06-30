@@ -13,9 +13,28 @@ Fork and clone this repository and answer questions as you research directly in 
 
 # Questions:
 1. What does the term noSQL refer to, and what other term is often used synonymously with noSQL?
-2. What are some of the common arguments for using a non-relational versus a relational db?
-3. In this class we will be using the document style of non-relational databases. What are the charecteristics of a document based db? 
-4. In this class we will be using Mongo specificially as our no-SQL db. Look into Mongo and answer this question: what is the priamry difference between how Mongo is maintained vrs SQL?
-5. Mongo DBs are organized into documents. Describe an example of a table in SQL that contains users, and then describe the equivalent DB setup in Mongo. 
-6. What is an example situation where a Mongo database makes sense versus a non-relational db?
+    noSQL databases are also known as non-relational databases. Non-relational databases are document oriented. Like file folders that hold information. 
 
+2. What are some of the common arguments for using a non-relational versus a relational db?
+    * Simplicity
+    * Data Accuracy
+    * Easy access to data
+    * Data integrity
+    * Flexible - can create new relations between tables without sacrificing integrity
+
+    Non-relational databases are often used when large quantities of data need to be organized. For example, a large store might have a database in which each customer has their own document containing all of their information, from name and address to order history and credit card information.
+
+3. In this class we will be using the document style of non-relational databases. What are the charecteristics of a document based db? 
+    * flexible schema
+    * Universal: JSON Files!
+    * Powerful: Query data any way that you need
+    * Distributed: Resilient and globally scalable
+
+4. In this class we will be using Mongo specificially as our no-SQL db. Look into Mongo and answer this question: what is the priamry difference between how Mongo is maintained vrs SQL?
+    The way they handle data. In SQL databases, data is stored in form of traditional 2 dimensional row-column structure while in MongoDB rich data document model is followed, which allows storage of any type of data.
+
+5. Mongo DBs are organized into documents. Describe an example of a table in SQL that contains users, and then describe the equivalent DB setup in Mongo. 
+    The equivalent Mongo setup would contain a structure with keys and objects.
+
+6. What is an example situation where a Mongo database makes sense versus a non-relational db?
+    For example, a large store might have a database in which each customer has their own document containing all of their information, from name and address to order history and credit card information.    
