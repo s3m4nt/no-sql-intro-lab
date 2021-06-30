@@ -31,10 +31,8 @@ Fork and clone this repository and answer questions as you research directly in 
     * Powerful: Query data any way that you need
     * Distributed: Resilient and globally scalable
 
-4. In this class we will be using Mongo specificially as our no-SQL db. Look into Mongo and answer this question: what is the priamry difference between how Mongo is maintained vrs SQL?
+4. In this class we will be using Mongo specificially as our no-SQL db. Look into Mongo and answer this question: what is the primary difference between how Mongo is maintained vrs SQL?
     The way they handle data. In SQL databases, data is stored in form of traditional 2 dimensional row-column structure while in MongoDB rich data document model is followed, which allows storage of any type of data.
-
-    Also, SQL requires $ licenses ...
 
 5. Mongo DBs are organized into documents. Describe an example of a table in SQL that contains users, and then describe the equivalent DB setup in Mongo. 
     The equivalent Mongo setup would contain a structure with keys and objects.
