@@ -21,6 +21,7 @@ Fork and clone this repository and answer questions as you research directly in 
     * Easy access to data
     * Data integrity
     * Flexible - can create new relations between tables without sacrificing integrity
+    * Open source
 
     Non-relational databases are often used when large quantities of data need to be organized. For example, a large store might have a database in which each customer has their own document containing all of their information, from name and address to order history and credit card information.
 
